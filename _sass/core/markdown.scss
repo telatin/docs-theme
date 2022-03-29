@@ -62,7 +62,8 @@
   // improved
   code,
   tt {
-    font-size: $font-size-small;
+    // font-size: $font-size-small;
+    font-size: 14px;
     border: $border;
     color: $theme-code-inline;
     background-color: $theme-code-inline-background;
@@ -76,7 +77,8 @@
 
   .highlight pre,
   pre {
-    font-size: $font-size-small;
+    // font-size: $font-size-small;
+    font-size: 14px;
     border: $border;
     background-color: $theme-code-background;
   }
